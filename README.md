@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ## Hi there, my name Magnus & I'm an Informatics student based in Norway! 
 ⏳ I'm finishing my bachelors degree by the summer of 2021, and I'm excited to see where I end up from there. Master thesis? Work?
 
@@ -31,3 +30,7 @@ Learn as much as possible, strive to follow best practices and one day hopefully
 
 ### 💬 Want to connect? 
 * LinkedIn: https://www.linkedin.com/in/magnus-l-holtet/
+
+<hr />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lekesoldat&show_icons=true&include_all_commits=true&theme=dracula" alt="Magnus' github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekesoldat&layout=compact&theme=dracula" />
