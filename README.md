@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 ## Hi there, my name Magnus & I'm an Informatics student based in Norway! 
 ⏳ I'm finishing my bachelors degree by the summer of 2021, and I'm excited to see where I end up from there. Master thesis? Work?
 
-### ✨ Goal
-Learn as much as possible, strive to follow best practices and one day hopefully create something open source that lots of people make use of.
+### ⏳ Projects in progress
+* [GhostBills](https://ghostbills.vercel.app)
+* [Expend](https://github.com/lekesoldat/Expend)
+
 
 ### 🎙️ Experience
 * Summer internship at [Knowit](https://www.knowit.no/) in 2020.
@@ -28,19 +30,3 @@ Learn as much as possible, strive to follow best practices and one day hopefully
 * Bar and HR manager at [Studentersamfundet i Trondhjem](https://www.samfundet.no/)
 * Bartender at [UKA19](https://www.uka.no/)
 
-### 💬 Want to connect? 
-* LinkedIn: https://www.linkedin.com/in/magnus-l-holtet/
-
-<hr />
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lekesoldat&show_icons=true&include_all_commits=true&theme=dracula" alt="Magnus' github stats" /> 
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekesoldat&theme=dracula&layout=compact" />
-</div>
-
-<hr />
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lekesoldat/count.svg" />
-</p>
