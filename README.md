@@ -12,16 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Hi there, my name Magnus & I'm an Informatics student based in Norway! 
 ⏳ I'm finishing my bachelors degree by the summer of 2021, and I'm excited to see where I end up from there. Master thesis? Work?
 
 ### ⏳ Projects in progress
-* [GhostBills](https://ghostbills.vercel.app)
-* [Expend](https://github.com/lekesoldat/Expend)
-
+* [Straffepils](https://github.com/Lekesoldat/straffepils)
 
 ### 🎙️ Experience
-* Summer internship at [Knowit](https://www.knowit.no/) in 2020.
+* Summer internship at [Knowit](https://www.knowit.no/) in 2020 and 2021.
 * Learning assistant in Web Technologies at Norwegian University of Science and Technology.
 * Teacher at [Sommerskolen](https://sommerskolenoslo.no/) in the course _Robot programming with LEGO_.
 
