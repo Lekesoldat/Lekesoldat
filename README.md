@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ⏳ I'm finishing my bachelors degree by the summer of 2021, and I'm excited to see where I end up from there. Master thesis? Work?
 
 ### ⏳ Projects in progress
-* [Straffepils](https://github.com/Lekesoldat/straffepils)
+* [🍺 drunq](https://github.com/Lekesoldat/drunq)
 
 ### 🎙️ Experience
 * Summer internship at [Knowit](https://www.knowit.no/) in 2020 and 2021.
