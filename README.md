@@ -16,10 +16,3 @@
 - 📫 How to reach me **magnulho@gmail.com**.
 
 - ⚡ Fun fact **I'm good at what I know, the best at everything else**.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lekesoldat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="lekesoldat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/magnusholtet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="magnusholtet" height="30" width="40" /></a>
-<a href="https://instagram.com/magnusandmyggen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="magnusandmyggen" height="30" width="40" /></a>
-</p>
