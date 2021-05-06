@@ -1,31 +1,25 @@
-<!--
-**Lekesoldat/Lekesoldat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Magnus</h1>
+<h3 align="center">Software engineering student from Norway!</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/lekesoldat" target="blank"><img src="https://img.shields.io/twitter/follow/lekesoldat?logo=twitter&style=for-the-badge" alt="lekesoldat" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--  I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [🍻 drunq](https://github.com/Lekesoldat/drunq).
 
-## Hi there, my name Magnus & I'm an Informatics student based in Norway! 
-⏳ I'm finishing my bachelors degree by the summer of 2021, and I'm excited to see where I end up from there. Master thesis? Work?
+- 🌱 I’m currently learning **security**.
 
-### ⏳ Projects in progress
-* [🍺 drunq](https://github.com/Lekesoldat/drunq)
+- 👯 I’m looking to collaborate on **innovative and exciting projects with cutting edge technology**.
 
-### 🎙️ Experience
-* Summer internship at [Knowit](https://www.knowit.no/) in 2020 and 2021.
-* Learning assistant in Web Technologies at Norwegian University of Science and Technology.
-* Teacher at [Sommerskolen](https://sommerskolenoslo.no/) in the course _Robot programming with LEGO_.
+- 👨‍💻 All of my projects are available at here!
 
-### 🤗 Volunteer Experience
-* Programming tutor at [Kodeklubben](https://www.kidsakoder.no/kodeklubben/)
-* Bar and HR manager at [Studentersamfundet i Trondhjem](https://www.samfundet.no/)
-* Bartender at [UKA19](https://www.uka.no/)
+- 💬 Ask me about **react, graphql, javascript, pwa's**.
 
+- 📫 How to reach me **magnulho@gmail.com**.
+
+- ⚡ Fun fact **I'm good at what I know, the best at everything else**.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/lekesoldat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="lekesoldat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/magnusholtet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="magnusholtet" height="30" width="40" /></a>
+<a href="https://instagram.com/magnusandmyggen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="magnusandmyggen" height="30" width="40" /></a>
+</p>
