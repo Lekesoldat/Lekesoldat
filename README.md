@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Magnus</h1>
 <h3 align="center">Software engineering student from Norway!</h3>
 
+
 - 🔭 I’m currently working on several projects. Have a look at latest commits.
 
 - 🌱 I’m currently learning **security**.
