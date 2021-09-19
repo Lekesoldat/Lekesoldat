@@ -12,6 +12,6 @@
 
 - 💬 Ask me about **react, graphql, javascript, pwa's**.
 
-- 📫 How to reach me **magnulho@gmail.com**.
+- 📫 How to reach me **hey@holtet.me**.
 
 - ⚡ Fun fact **I'm good at what I know, the best at everything else**.
