@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on several projects. Have a look at latest commits.
 
-- 🌱 I’m currently learning **something**.
+- 🌱 I’m currently learning **Svelte/Kit**.
 
 - 👯 I’m looking to collaborate on **innovative and exciting projects with cutting edge technology**.
 
